@@ -1,6 +1,5 @@
-# Kalkulator Sederhana
-
-Program ini merupakan sebuah web app kalkulator sederhana
+# Tugas Pelatihan Junior Web Developer @bpptik
+Kumpulan tugas saya di pelatihan Junior Web Developer di BPPTIK
 
 ## Requirements
 * PHP >= 5.6
@@ -12,7 +11,7 @@ Program ini merupakan sebuah web app kalkulator sederhana
 ## Installation
 
 Clone
-[program](https://github.com/EinzFiore/tugasBPPTIK.git) untuk clone web app kalkulator sederhana
+[program](https://github.com/EinzFiore/tugasBPPTIK.git) untuk clone
 
 ```bash
 git clone https://github.com/EinzFiore/tugasBPPTIK.git your_project
@@ -32,8 +31,6 @@ localhost/your_project
 
 ```
 
-Input angka pertama dan kedua, lalu klik hasil maka hasil dari tiap perhitungan
-akan muncul dibawah
-
 ## License
 Ahmad Junaedi
+IG : @klotze._
